@@ -10,9 +10,9 @@
 
 Browse public APIs with direct links to docs, Test Lab, and API Deposu detail pages.
 
-[![Catalog APIs](https://img.shields.io/badge/catalog-420%20APIs-0a7ea4)](https://apideposu.com/en/catalog)
+[![Catalog APIs](https://img.shields.io/badge/catalog-421%20APIs-0a7ea4)](https://apideposu.com/en/catalog)
 [![APIs for Türkiye](https://img.shields.io/badge/Turkiye-118%20APIs-dc2626)](./docs/turkey-focused-apis.md)
-[![Playground Links](https://img.shields.io/badge/playground-400%20links-1f8f5f)](https://apideposu.com/en/playground)
+[![Playground Links](https://img.shields.io/badge/playground-401%20links-1f8f5f)](https://apideposu.com/en/playground)
 [![Support](https://img.shields.io/badge/donate-buy%20me%20a%20coffee-ffdd00)](https://buymeacoffee.com/apideposu)
 [![Issues](https://img.shields.io/badge/issues-feedback-d97706)](https://github.com/MertMURAT/public-api-deposu/issues)
 
@@ -40,7 +40,7 @@ APIs marked with <img src="./assets/tr-flag-icon.svg" width="18" alt="" /> belon
 - [Maps (14)](#maps)
 - [Identity (4)](#identity)
 - [Business (20)](#business)
-- [AI (9)](#ai)
+- [AI (10)](#ai)
 - [Monitoring (1)](#monitoring)
 - [Developer Tools (22)](#developer-tools)
 
@@ -491,6 +491,7 @@ APIs marked with <img src="./assets/tr-flag-icon.svg" width="18" alt="" /> belon
 
 | API | Description | Auth | Free | Official |
 |:---|:---|:---|:---|:---:|
+| **AI Router**<br><sub>[Docs](https://ai-router.dev/tr) &middot; [Test](https://apideposu.com/en/playground?api=ai-router) &middot; [Detail](https://apideposu.com/en/catalog/ai-router)</sub> | AI Router is a managed ChatGPT API gateway usable with the OpenAI client format for apps, scripts, and codi... | Bearer | Limited | - |
 | <img src="./assets/tr-flag-icon.svg" width="16" alt="" /> **ARKAPI**<br><sub>[Docs](https://arkapi.app/documentation) &middot; [Test](https://apideposu.com/en/playground?api=arkapi) &middot; [Detail](https://apideposu.com/en/catalog/arkapi)</sub> | Local OCR solution with data localization advantages for KVKK. | API Key | Trial | &#10003; |
 | **AssemblyAI API**<br><sub>[Docs](https://www.assemblyai.com/docs) &middot; [Test](https://apideposu.com/en/playground?api=assemblyai-api) &middot; [Detail](https://apideposu.com/en/catalog/assemblyai-api)</sub> | Ses ve video dosyalarından yüksek doğrulukla konuşma metne dönüştürme, duygu analizi ve özetleme API'si. | API Key | Free | &#10003; |
 | <img src="./assets/tr-flag-icon.svg" width="16" alt="" /> **Dahi.ai**<br><sub>[Docs](https://docs.dahi.ai/) &middot; [Test](https://apideposu.com/en/playground?api=dahi-ai) &middot; [Detail](https://apideposu.com/en/catalog/dahi-ai)</sub> | Local AI platform focused on no-code bot and automation development. | OAuth 2.0 | Unknown | &#10003; |
