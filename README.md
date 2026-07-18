@@ -10,9 +10,9 @@
 
 Browse public APIs with direct links to docs, Test Lab, and API Deposu detail pages.
 
-[![Catalog APIs](https://img.shields.io/badge/catalog-419%20APIs-0a7ea4)](https://apideposu.com/en/catalog)
+[![Catalog APIs](https://img.shields.io/badge/catalog-420%20APIs-0a7ea4)](https://apideposu.com/en/catalog)
 [![APIs for Türkiye](https://img.shields.io/badge/Turkiye-118%20APIs-dc2626)](./docs/turkey-focused-apis.md)
-[![Playground Links](https://img.shields.io/badge/playground-399%20links-1f8f5f)](https://apideposu.com/en/playground)
+[![Playground Links](https://img.shields.io/badge/playground-400%20links-1f8f5f)](https://apideposu.com/en/playground)
 [![Support](https://img.shields.io/badge/donate-buy%20me%20a%20coffee-ffdd00)](https://buymeacoffee.com/apideposu)
 [![Issues](https://img.shields.io/badge/issues-feedback-d97706)](https://github.com/MertMURAT/public-api-deposu/issues)
 
@@ -29,7 +29,7 @@ APIs marked with <img src="./assets/tr-flag-icon.svg" width="18" alt="" /> belon
 
 ## Categories
 
-- [Public Data (219)](#public)
+- [Public Data (220)](#public)
 - [Sports (11)](#sports)
 - [Gaming (12)](#gaming)
 - [Entertainment (22)](#entertainment)
@@ -155,6 +155,7 @@ APIs marked with <img src="./assets/tr-flag-icon.svg" width="18" alt="" /> belon
 | **LanguageTool API**<br><sub>[Docs](https://languagetool.org/http-api/) &middot; [Test](https://apideposu.com/en/playground?api=languagetool-api) &middot; [Detail](https://apideposu.com/en/catalog/languagetool-api)</sub> | Açık kaynaklı dil bilgisi ve yazım denetimi API'si. İngilizce, Türkçe dahil 30'dan fazla dilde hata tespiti... | No | Free | &#10003; |
 | **Libraries.io API**<br><sub>[Docs](https://libraries.io/api) &middot; [Test](https://apideposu.com/en/playground?api=libraries-io-api) &middot; [Detail](https://apideposu.com/en/catalog/libraries-io-api)</sub> | npm, PyPI, Maven ve 30 dan fazla paket yoneticisini kapsayan acik kaynak bagimlilik izleme platformu. Paket... | API Key | Free | &#10003; |
 | **LibreTranslate**<br><sub>[Docs](https://libretranslate.com/docs/) &middot; [Test](https://apideposu.com/en/playground?api=libretranslate) &middot; [Detail](https://apideposu.com/en/catalog/libretranslate)</sub> | Açık kaynaklı ve kendi sunucuna kurulabilir makine çevirisi API'si. Türkçe dahil 50'den fazla dil çiftini d... | API Key | Free | &#10003; |
+| **Longevity World Cup Public Data API**<br><sub>[Docs](https://longevityworldcup.com/swagger/index.html) &middot; [Test](https://apideposu.com/en/playground?api=longevity-world-cup-public-data-api) &middot; [Detail](https://apideposu.com/en/catalog/longevity-world-cup-public-data-api)</sub> | Longevity World Cup exposes public participant profiles, biomarker records, and provider-calculated biologi... | No | Free | &#10003; |
 | **Lorem Picsum**<br><sub>[Docs](https://picsum.photos/) &middot; [Test](https://apideposu.com/en/playground?api=lorem-picsum) &middot; [Detail](https://apideposu.com/en/catalog/lorem-picsum)</sub> | Lorem Picsum offers keyless placeholder photo and metadata endpoints. | No | Free | &#10003; |
 | **Mail.tm API**<br><sub>[Docs](https://docs.mail.tm) &middot; [Test](https://apideposu.com/en/playground?api=mail-tm-api) &middot; [Detail](https://apideposu.com/en/catalog/mail-tm-api)</sub> | Kayit gerektirmeyen gecici ve anonim e-posta adresi olusturma ve mesaj alma hizmeti. Test ve gelistirme sen... | No | Free | &#10003; |
 | <img src="./assets/tr-flag-icon.svg" width="16" alt="" /> **Manisa Acik Veri Platformu**<br><sub>[Docs](https://acikveri.manisa.bel.tr/) &middot; [Detail](https://apideposu.com/en/catalog/manisa-acik-veri-platformu)</sub> | Manisa Metropolitan Municipality CKAN-based open data platform exposing package listing and dataset metadat... | Open | Free | &#10003; |
