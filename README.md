@@ -10,9 +10,9 @@
 
 Browse public APIs with direct links to docs, Test Lab, and API Deposu detail pages.
 
-[![Catalog APIs](https://img.shields.io/badge/catalog-422%20APIs-0a7ea4)](https://apideposu.com/en/catalog)
+[![Catalog APIs](https://img.shields.io/badge/catalog-423%20APIs-0a7ea4)](https://apideposu.com/en/catalog)
 [![APIs for Türkiye](https://img.shields.io/badge/Turkiye-118%20APIs-dc2626)](./docs/turkey-focused-apis.md)
-[![Playground Links](https://img.shields.io/badge/playground-402%20links-1f8f5f)](https://apideposu.com/en/playground)
+[![Playground Links](https://img.shields.io/badge/playground-403%20links-1f8f5f)](https://apideposu.com/en/playground)
 [![Support](https://img.shields.io/badge/donate-buy%20me%20a%20coffee-ffdd00)](https://buymeacoffee.com/apideposu)
 [![Issues](https://img.shields.io/badge/issues-feedback-d97706)](https://github.com/MertMURAT/public-api-deposu/issues)
 
@@ -33,7 +33,7 @@ APIs marked with <img src="./assets/tr-flag-icon.svg" width="18" alt="" /> belon
 - [Sports (12)](#sports)
 - [Gaming (12)](#gaming)
 - [Entertainment (22)](#entertainment)
-- [Finance (57)](#finance)
+- [Finance (58)](#finance)
 - [Logistics (6)](#logistics)
 - [Ecommerce (6)](#ecommerce)
 - [Communication (16)](#communication)
@@ -349,6 +349,7 @@ APIs marked with <img src="./assets/tr-flag-icon.svg" width="18" alt="" /> belon
 | **CoinGecko API**<br><sub>[Docs](https://www.coingecko.com/en/api/documentation) &middot; [Test](https://apideposu.com/en/playground?api=coingecko) &middot; [Detail](https://apideposu.com/en/catalog/coingecko)</sub> | CoinGecko API provides cryptocurrency price and market data in JSON format. | No | Free | &#10003; |
 | **Coinlore API**<br><sub>[Docs](https://www.coinlore.com/cryptocurrency-data-api) &middot; [Test](https://apideposu.com/en/playground?api=coinlore) &middot; [Detail](https://apideposu.com/en/catalog/coinlore)</sub> | Coinlore API provides open ticker and market data for cryptocurrencies. | No | Free | &#10003; |
 | **coinpaprika API**<br><sub>[Docs](https://api.coinpaprika.com/) &middot; [Test](https://apideposu.com/en/playground?api=coinpaprika) &middot; [Detail](https://apideposu.com/en/catalog/coinpaprika)</sub> | coinpaprika API provides global statistics and ticker data for cryptocurrencies. | No | Free | &#10003; |
+| **CoinStats API**<br><sub>[Docs](https://coinstats.app/api-docs/) &middot; [Test](https://apideposu.com/en/playground?api=coinstats-api) &middot; [Detail](https://apideposu.com/en/catalog/coinstats-api)</sub> | CoinStats API delivers crypto market data, wallet balances, DeFi positions, and portfolio analytics through... | API Key | Limited | &#10003; |
 | <img src="./assets/tr-flag-icon.svg" width="16" alt="" /> **Craftgate**<br><sub>[Docs](https://docs.craftgate.io/) &middot; [Test](https://apideposu.com/en/playground?api=craftgate) &middot; [Detail](https://apideposu.com/en/catalog/craftgate)</sub> | An orchestration layer to manage multiple payment providers. | API Key | Sandbox | &#10003; |
 | **CryptAPI**<br><sub>[Docs](https://docs.cryptapi.io/) &middot; [Test](https://apideposu.com/en/playground?api=cryptapi) &middot; [Detail](https://apideposu.com/en/catalog/cryptapi)</sub> | CryptAPI exposes public information endpoints for supported coins and core payment metadata. | No | Free | &#10003; |
 | **CryptoCompare Market Data**<br><sub>[Docs](https://developers.coindesk.com/documentation/legacy/Price/SingleSymbolPriceEndpoint) &middot; [Test](https://apideposu.com/en/playground?api=cryptocompare-market-data) &middot; [Detail](https://apideposu.com/en/catalog/cryptocompare-market-data)</sub> | CryptoCompare provides cryptocurrency price and volume data through legacy public endpoints. | No | Free | &#10003; |
