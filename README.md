@@ -10,9 +10,9 @@
 
 Browse public APIs with direct links to docs, Test Lab, and API Deposu detail pages.
 
-[![Catalog APIs](https://img.shields.io/badge/catalog-423%20APIs-0a7ea4)](https://apideposu.com/en/catalog)
+[![Catalog APIs](https://img.shields.io/badge/catalog-431%20APIs-0a7ea4)](https://apideposu.com/en/catalog)
 [![APIs for Türkiye](https://img.shields.io/badge/Turkiye-118%20APIs-dc2626)](./docs/turkey-focused-apis.md)
-[![Playground Links](https://img.shields.io/badge/playground-403%20links-1f8f5f)](https://apideposu.com/en/playground)
+[![Playground Links](https://img.shields.io/badge/playground-411%20links-1f8f5f)](https://apideposu.com/en/playground)
 [![Support](https://img.shields.io/badge/donate-buy%20me%20a%20coffee-ffdd00)](https://buymeacoffee.com/apideposu)
 [![Issues](https://img.shields.io/badge/issues-feedback-d97706)](https://github.com/MertMURAT/public-api-deposu/issues)
 
@@ -33,7 +33,7 @@ APIs marked with <img src="./assets/tr-flag-icon.svg" width="18" alt="" /> belon
 - [Sports (12)](#sports)
 - [Gaming (12)](#gaming)
 - [Entertainment (22)](#entertainment)
-- [Finance (58)](#finance)
+- [Finance (64)](#finance)
 - [Logistics (6)](#logistics)
 - [Ecommerce (6)](#ecommerce)
 - [Communication (16)](#communication)
@@ -42,6 +42,7 @@ APIs marked with <img src="./assets/tr-flag-icon.svg" width="18" alt="" /> belon
 - [Business (20)](#business)
 - [AI (10)](#ai)
 - [Monitoring (1)](#monitoring)
+- [Infrastructure (2)](#infrastructure)
 - [Developer Tools (22)](#developer-tools)
 
 ## Public Data
@@ -340,6 +341,8 @@ APIs marked with <img src="./assets/tr-flag-icon.svg" width="18" alt="" /> belon
 | <img src="./assets/tr-flag-icon.svg" width="16" alt="" /> **Anadolu Hayat Emeklilik API**<br><sub>[Docs](https://developers.anadoluhayat.com.tr/tr/) &middot; [Test](https://apideposu.com/en/playground?api=anadoluhayat-api) &middot; [Detail](https://apideposu.com/en/catalog/anadoluhayat-api)</sub> | Provides pension and insurance APIs via the Anadolu Hayat developer portal. | OAuth 2.0 | Unknown | &#10003; |
 | **Binance Spot API**<br><sub>[Docs](https://developers.binance.com/docs/binance-spot-api-docs/rest-api/market-data-endpoints) &middot; [Test](https://apideposu.com/en/playground?api=binance-spot-api) &middot; [Detail](https://apideposu.com/en/catalog/binance-spot-api)</sub> | Binance Spot API provides public market data endpoints for prices, depth, and candlesticks. | No | Free | &#10003; |
 | **Binlist**<br><sub>[Docs](https://binlist.net/) &middot; [Test](https://apideposu.com/en/playground?api=binlist) &middot; [Detail](https://apideposu.com/en/catalog/binlist)</sub> | Binlist provides issuer, country, and card type metadata for card BIN/IIN numbers. | No | Free | &#10003; |
+| **Bitfinex API**<br><sub>[Docs](https://docs.bitfinex.com/reference/rest-public-ticker) &middot; [Test](https://apideposu.com/en/playground?api=bitfinex-api) &middot; [Detail](https://apideposu.com/en/catalog/bitfinex-api)</sub> | Bitfinex API serves spot ticker, order book and candle data through its public v2 endpoints. | No | Free | &#10003; |
+| **Blockchain.com API**<br><sub>[Docs](https://www.blockchain.com/explorer/api/exchange_rates_api) &middot; [Test](https://apideposu.com/en/playground?api=blockchain-com-api) &middot; [Detail](https://apideposu.com/en/catalog/blockchain-com-api)</sub> | Blockchain.com API serves a multi-currency Bitcoin rate table and public explorer data without a key. | No | Free | &#10003; |
 | **Blockchair API**<br><sub>[Docs](https://blockchair.com/api/docs) &middot; [Test](https://apideposu.com/en/playground?api=blockchair-api) &middot; [Detail](https://apideposu.com/en/catalog/blockchair-api)</sub> | Blockchair API exposes public Bitcoin chain statistics, while heavier queries can hit free-tier limits quic... | No | Limited | &#10003; |
 | **BlockCypher API**<br><sub>[Docs](https://www.blockcypher.com/dev/bitcoin/) &middot; [Test](https://apideposu.com/en/playground?api=blockcypher-api) &middot; [Detail](https://apideposu.com/en/catalog/blockcypher-api)</sub> | BlockCypher API provides public explorer data for Bitcoin blocks, addresses, and transactions. | No | Free | &#10003; |
 | **Blockstream Esplora API**<br><sub>[Docs](https://github.com/Blockstream/esplora/blob/master/API.md) &middot; [Test](https://apideposu.com/en/playground?api=blockstream-esplora-api) &middot; [Detail](https://apideposu.com/en/catalog/blockstream-esplora-api)</sub> | Blockstream Esplora API exposes open, keyless Bitcoin/Liquid explorer data. | No | Free | &#10003; |
@@ -364,8 +367,10 @@ APIs marked with <img src="./assets/tr-flag-icon.svg" width="18" alt="" /> belon
 | **Finnhub API**<br><sub>[Docs](https://finnhub.io/docs/api) &middot; [Test](https://apideposu.com/en/playground?api=finnhub-api) &middot; [Detail](https://apideposu.com/en/catalog/finnhub-api)</sub> | Gerçek zamanlı hisse senedi fiyatları, forex, kripto ve şirket haberleri sunan finansal piyasa verisi API'si. | API Key | Free | &#10003; |
 | **Frankfurter**<br><sub>[Docs](https://www.frankfurter.app/docs/) &middot; [Test](https://apideposu.com/en/playground?api=frankfurter) &middot; [Detail](https://apideposu.com/en/catalog/frankfurter)</sub> | Frankfurter provides live and historical exchange rates without API keys. | No | Free | &#10003; |
 | <img src="./assets/tr-flag-icon.svg" width="16" alt="" /> **Garanti BBVA API Store**<br><sub>[Docs](https://developers.garantibbva.com.tr/pages/Home.html) &middot; [Test](https://apideposu.com/en/playground?api=garanti-bbva) &middot; [Detail](https://apideposu.com/en/catalog/garanti-bbva)</sub> | Provides open banking APIs via the Garanti BBVA developer portal. | OAuth 2.0 | Sandbox | &#10003; |
+| **Gate.io API**<br><sub>[Docs](https://www.gate.io/docs/developers/apiv4/en/) &middot; [Test](https://apideposu.com/en/playground?api=gate-io-api) &middot; [Detail](https://apideposu.com/en/catalog/gate-io-api)</sub> | Gate.io API serves ticker, pair definition, order book and candle data through its public spot v4 endpoints. | No | Free | &#10003; |
 | **Gemini Market Data**<br><sub>[Docs](https://docs.gemini.com/rest/market-data) &middot; [Test](https://apideposu.com/en/playground?api=gemini-market-data) &middot; [Detail](https://apideposu.com/en/catalog/gemini-market-data)</sub> | Gemini provides symbol lists and public ticker data through its market endpoints. | No | Free | &#10003; |
 | **goldprice.today altın fiyatları**<br><sub>[Docs](https://goldprice.today) &middot; [Test](https://apideposu.com/en/playground?api=goldprice-today-alt-n-fiyatlar) &middot; [Detail](https://apideposu.com/en/catalog/goldprice-today-alt-n-fiyatlar)</sub> | GoldPrice.Today is a completely free and simple JSON API service that provides real-time gold spot prices i... | Unknown | Free | - |
+| **ICRYPEX API**<br><sub>[Docs](https://github.com/icrypex-com/apidoc) &middot; [Test](https://apideposu.com/en/playground?api=icrypex-api) &middot; [Detail](https://apideposu.com/en/catalog/icrypex-api)</sub> | ICRYPEX API exposes ticker, order book, recent trade and candle data from a Turkish crypto exchange through... | No | Free | &#10003; |
 | **Indian Mutual Fund**<br><sub>[Docs](https://www.mfapi.in/) &middot; [Test](https://apideposu.com/en/playground?api=indian-mutual-fund) &middot; [Detail](https://apideposu.com/en/catalog/indian-mutual-fund)</sub> | The Indian Mutual Fund API provides scheme lists and historical NAV data for Indian mutual funds. | No | Free | &#10003; |
 | <img src="./assets/tr-flag-icon.svg" width="16" alt="" /> **ininal API**<br><sub>[Docs](https://developer.ininal.com/) &middot; [Test](https://apideposu.com/en/playground?api=ininal-api) &middot; [Detail](https://apideposu.com/en/catalog/ininal-api)</sub> | Provides e-money and payment APIs via the ininal developer portal. | OAuth 2.0 | Sandbox | &#10003; |
 | <img src="./assets/tr-flag-icon.svg" width="16" alt="" /> **İş Bankası API Portal**<br><sub>[Docs](https://developer.isbank.com.tr/Pages/home.aspx) &middot; [Test](https://apideposu.com/en/playground?api=isbank-api-portal) &middot; [Detail](https://apideposu.com/en/catalog/isbank-api-portal)</sub> | Provides open banking services via the İş Bankası developer portal. | OAuth 2.0 | Sandbox | &#10003; |
@@ -377,9 +382,11 @@ APIs marked with <img src="./assets/tr-flag-icon.svg" width="18" alt="" /> belon
 | **Kur.TC**<br><sub>[Docs](https://kur.tc/api/) &middot; [Test](https://apideposu.com/en/playground?api=kur-tc) &middot; [Detail](https://apideposu.com/en/catalog/kur-tc)</sub> | It is a free API service from a financial data portal that provides real-time/current foreign exchange, com... | API Key | Free | &#10003; |
 | <img src="./assets/tr-flag-icon.svg" width="16" alt="" /> **Kuveyt Türk API**<br><sub>[Docs](https://developer.kuveytturk.com.tr/) &middot; [Test](https://apideposu.com/en/playground?api=kuveyt-turk) &middot; [Detail](https://apideposu.com/en/catalog/kuveyt-turk)</sub> | Provides API banking services via the Kuveyt Türk developer portal. | API Key | Sandbox | &#10003; |
 | **mempool.space API**<br><sub>[Docs](https://mempool.space/docs/api/rest) &middot; [Test](https://apideposu.com/en/playground?api=mempool-space-api) &middot; [Detail](https://apideposu.com/en/catalog/mempool-space-api)</sub> | mempool.space API provides open explorer data for Bitcoin mempool and fee metrics. | No | Free | &#10003; |
+| **MEXC API**<br><sub>[Docs](https://mexcdevelop.github.io/apidocs/spot_v3_en/) &middot; [Test](https://apideposu.com/en/playground?api=mexc-api) &middot; [Detail](https://apideposu.com/en/catalog/mexc-api)</sub> | MEXC API serves price, order book and candle data through its public spot v3 endpoints. | No | Free | &#10003; |
 | **Nexchange**<br><sub>[Docs](https://api.n.exchange/docs/v2) &middot; [Test](https://apideposu.com/en/playground?api=nexchange) &middot; [Detail](https://apideposu.com/en/catalog/nexchange)</sub> | Nexchange exposes supported currency metadata through a public currency endpoint. | Karma (currency listesi public, bircok islem endpoint'i auth isteyebilir) | Free | &#10003; |
 | **OKX API**<br><sub>[Docs](https://www.okx.com/docs-v5/en) &middot; [Test](https://apideposu.com/en/playground?api=okx-api) &middot; [Detail](https://apideposu.com/en/catalog/okx-api)</sub> | OKX API provides public market data endpoints for tickers, order books, and candles. | No | Free | &#10003; |
 | <img src="./assets/tr-flag-icon.svg" width="16" alt="" /> **Papara Merchant API**<br><sub>[Docs](https://merchant-api.papara.com/) &middot; [Test](https://apideposu.com/en/playground?api=papara-merchant) &middot; [Detail](https://apideposu.com/en/catalog/papara-merchant)</sub> | Enables payments and transfers through the Papara wallet ecosystem. | API Key | Sandbox | &#10003; |
+| **Paribu API**<br><sub>[Docs](https://docs.paribu.com/) &middot; [Test](https://apideposu.com/en/playground?api=paribu-api) &middot; [Detail](https://apideposu.com/en/catalog/paribu-api)</sub> | Paribu API exposes ticker and order book data from a Turkish crypto exchange, quoted in Turkish lira, throu... | No | Free | &#10003; |
 | <img src="./assets/tr-flag-icon.svg" width="16" alt="" /> **PayTR**<br><sub>[Docs](https://dev.paytr.com/en) &middot; [Test](https://apideposu.com/en/playground?api=paytr) &middot; [Detail](https://apideposu.com/en/catalog/paytr)</sub> | Quick-to-integrate virtual POS with a sandbox environment. | HMAC-SHA256 | Sandbox | &#10003; |
 | **Portfolio Optimizer**<br><sub>[Docs](https://portfoliooptimizer.io/) &middot; [Test](https://apideposu.com/en/playground?api=portfolio-optimizer) &middot; [Detail](https://apideposu.com/en/catalog/portfolio-optimizer)</sub> | Portfolio Optimizer exposes no-auth financial optimization endpoints that return portfolio weights. | No | Free | &#10003; |
 | **Razorpay IFSC**<br><sub>[Docs](https://ifsc.razorpay.com/) &middot; [Test](https://apideposu.com/en/playground?api=razorpay-ifsc) &middot; [Detail](https://apideposu.com/en/catalog/razorpay-ifsc)</sub> | Razorpay IFSC provides bank and branch metadata for Indian bank branches using IFSC codes. | No | Free | &#10003; |
@@ -509,6 +516,13 @@ APIs marked with <img src="./assets/tr-flag-icon.svg" width="18" alt="" /> belon
 | API | Description | Auth | Free | Official |
 |:---|:---|:---|:---|:---:|
 | **Watchman Tower**<br><sub>[Docs](https://docs.watchmantower.com/anon-api/overview) &middot; [Test](https://apideposu.com/en/playground?api=watchman-tower) &middot; [Detail](https://apideposu.com/en/catalog/watchman-tower)</sub> | Watchman Tower Anon API provides anonymous, rate-limited endpoints for domain health checks. You can reques... | Anonymous (rate-limited) / API Key on Public API v1 | Limited | &#10003; |
+
+## Infrastructure
+
+| API | Description | Auth | Free | Official |
+|:---|:---|:---|:---|:---:|
+| **Blockscout API**<br><sub>[Docs](https://docs.blockscout.com/devs/apis/rest) &middot; [Test](https://apideposu.com/en/playground?api=blockscout-api) &middot; [Detail](https://apideposu.com/en/catalog/blockscout-api)</sub> | Blockscout API is the REST interface of the open-source block explorer, serving address, transaction, token... | No | Free | &#10003; |
+| **Ethplorer API**<br><sub>[Docs](https://github.com/EverexIO/Ethplorer/wiki/Ethplorer-API) &middot; [Test](https://apideposu.com/en/playground?api=ethplorer-api) &middot; [Detail](https://apideposu.com/en/catalog/ethplorer-api)</sub> | Ethplorer API serves balance, token list and supply data for Ethereum addresses and ERC-20 tokens over REST. | API Key | Limited | &#10003; |
 
 ## Developer Tools
 
