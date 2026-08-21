@@ -10,9 +10,9 @@
 
 Browse public APIs with direct links to docs, Test Lab, and API Deposu detail pages.
 
-[![Catalog APIs](https://img.shields.io/badge/catalog-431%20APIs-0a7ea4)](https://apideposu.com/en/catalog)
+[![Catalog APIs](https://img.shields.io/badge/catalog-432%20APIs-0a7ea4)](https://apideposu.com/en/catalog)
 [![APIs for Türkiye](https://img.shields.io/badge/Turkiye-118%20APIs-dc2626)](./docs/turkey-focused-apis.md)
-[![Playground Links](https://img.shields.io/badge/playground-411%20links-1f8f5f)](https://apideposu.com/en/playground)
+[![Playground Links](https://img.shields.io/badge/playground-412%20links-1f8f5f)](https://apideposu.com/en/playground)
 [![Support](https://img.shields.io/badge/donate-buy%20me%20a%20coffee-ffdd00)](https://buymeacoffee.com/apideposu)
 [![Issues](https://img.shields.io/badge/issues-feedback-d97706)](https://github.com/MertMURAT/public-api-deposu/issues)
 
@@ -43,7 +43,7 @@ APIs marked with <img src="./assets/tr-flag-icon.svg" width="18" alt="" /> belon
 - [AI (10)](#ai)
 - [Monitoring (1)](#monitoring)
 - [Infrastructure (2)](#infrastructure)
-- [Developer Tools (22)](#developer-tools)
+- [Developer Tools (23)](#developer-tools)
 
 ## Public Data
 
@@ -530,6 +530,7 @@ APIs marked with <img src="./assets/tr-flag-icon.svg" width="18" alt="" /> belon
 |:---|:---|:---|:---|:---:|
 | **Abacus**<br><sub>[Docs](https://jasoncameron.dev/abacus/) &middot; [Test](https://apideposu.com/en/playground?api=abacus) &middot; [Detail](https://apideposu.com/en/catalog/abacus)</sub> | A simple, free counting API for websites and applications. Create, increment, and query unlimited counters... | No | Free | - |
 | **addr.zone**<br><sub>[Docs](https://addr.zone) &middot; [Detail](https://apideposu.com/en/catalog/addr-zone)</sub> | A free API that classifies IP addresses and provides trust scores. Detects datacenters, VPNs, and proxies w... | No | Free | - |
+| **CarDatabase.dev**<br><sub>[Docs](https://cardatabase.dev/swagger) &middot; [Test](https://apideposu.com/en/playground?api=cardatabase-dev) &middot; [Detail](https://apideposu.com/en/catalog/cardatabase-dev)</sub> | Automotive data API: car brands, models, technical specs and vehicle images — including EV data (battery ca... | API Key | Trial | &#10003; |
 | **DummyJSON**<br><sub>[Docs](https://dummyjson.com/docs) &middot; [Test](https://apideposu.com/en/playground?api=dummyjson) &middot; [Detail](https://apideposu.com/en/catalog/dummyjson)</sub> | Rich fake REST API with products, carts, users, recipes, and more for frontend development. | No | Free | &#10003; |
 | **ExtendsClass JSON Storage**<br><sub>[Docs](https://extendsclass.com/json-storage.html) &middot; [Test](https://apideposu.com/en/playground?api=extendsclass-json-storage) &middot; [Detail](https://apideposu.com/en/catalog/extendsclass-json-storage)</sub> | A free JSON storage API. Create, read, update, and delete JSON data without registration. Ideal for prototy... | No | Free | - |
 | **FreeApi**<br><sub>[Docs](https://freeapi.app/#apis) &middot; [Test](https://apideposu.com/en/playground?api=freeapi) &middot; [Detail](https://apideposu.com/en/catalog/freeapi)</sub> | A comprehensive OpenAPI 3.0 testing and prototyping schema that consolidates various public datasets such a... | Open | Unknown | &#10003; |
