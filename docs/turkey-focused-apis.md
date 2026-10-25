@@ -4,9 +4,9 @@
 
 A curated list of APIs from the main catalog that directly target Turkish institutions, companies, or Türkiye-specific data and products.
 
-[![APIs for Türkiye](https://img.shields.io/badge/Turkiye-118%20APIs-dc2626)](./turkey-focused-apis.md)
-[![Main Catalog](https://img.shields.io/badge/catalog-421%20APIs-0a7ea4)](../README.md)
-[![Playground Links](https://img.shields.io/badge/playground-401%20links-1f8f5f)](https://apideposu.com/en/playground)
+[![APIs for Türkiye](https://img.shields.io/badge/Turkiye-117%20APIs-dc2626)](./turkey-focused-apis.md)
+[![Main Catalog](https://img.shields.io/badge/catalog-454%20APIs-0a7ea4)](../README.md)
+[![Playground Links](https://img.shields.io/badge/playground-434%20links-1f8f5f)](https://apideposu.com/en/playground)
 
 ## Quick Links
 
@@ -22,7 +22,7 @@ A curated list of APIs from the main catalog that directly target Turkish instit
 - [Logistics (4)](#logistics)
 - [Ecommerce (5)](#ecommerce)
 - [Communication (13)](#communication)
-- [Maps (4)](#maps)
+- [Maps (3)](#maps)
 - [Identity (3)](#identity)
 - [Business (13)](#business)
 - [AI (3)](#ai)
@@ -32,7 +32,7 @@ A curated list of APIs from the main catalog that directly target Turkish instit
 | API | Description | Auth | Free | Official |
 |:---|:---|:---|:---|:---:|
 | **Adana Ulaşım Bilgi Sistemi**<br><sub>[Docs](https://ulasimbilgi.adana.bel.tr/Otobusler) &middot; [Detail](https://apideposu.com/en/catalog/adana-ulasim)</sub> | Adana public transit route list and stop-based detail pages. | No | Free | &#10003; |
-| **AFAD Earthquake API**<br><sub>[Docs](https://deprem.afad.gov.tr/event-filter) &middot; [Test](https://apideposu.com/en/playground?api=afad-deprem) &middot; [Detail](https://apideposu.com/en/catalog/afad-deprem)</sub> | Official AFAD earthquake event feed. Time window is required; supports XML/CSV/KML/GEOJSON/JSON formats. | Open | Free | &#10003; |
+| **AFAD Earthquake API**<br><sub>[Docs](https://deprem.afad.gov.tr/event-filter) &middot; [Test](https://apideposu.com/en/playground?api=afad-deprem) &middot; [Detail](https://apideposu.com/en/catalog/afad-deprem)</sub> | This service lets developers query earthquake event records published by AFAD by time, location, magnitude,... | No | Free | &#10003; |
 | **Ankara EGO Hareket Saatleri**<br><sub>[Docs](https://www.ego.gov.tr/hareketsaatleri) &middot; [Detail](https://apideposu.com/en/catalog/ankara-ego)</sub> | Ankara EGO bus departure times, queryable by route number. | No | Free | &#10003; |
 | **Antalya Ulaşım Tarifeleri**<br><sub>[Docs](https://ulasim.antalya.bel.tr/Home/TarifeListesi) &middot; [Detail](https://apideposu.com/en/catalog/antalya-ulasim)</sub> | Antalya public transit timetable and stop data. | No | Free | &#10003; |
 | **Ataturk Quotes API**<br><sub>[Docs](https://github.com/msrkc/ataturk-quotes-api) &middot; [Test](https://apideposu.com/en/playground?api=ataturk-quotes-api) &middot; [Detail](https://apideposu.com/en/catalog/ataturk-quotes-api)</sub> | Returns random Ataturk quotes in TR and EN via a lightweight community API. | No | Free | - |
@@ -153,7 +153,6 @@ A curated list of APIs from the main catalog that directly target Turkish instit
 |:---|:---|:---|:---|:---:|
 | **Başarsoft BMS**<br><sub>[Docs](https://www.basarsoft.com.tr/en/basar-map-server-smart-map-server-service/) &middot; [Test](https://apideposu.com/en/playground?api=basarsoft-bms) &middot; [Detail](https://apideposu.com/en/catalog/basarsoft-bms)</sub> | One of the highest-quality local map data providers for Türkiye. | API Key | Paid | &#10003; |
 | **Burulaş**<br><sub>[Docs](https://www.bursakart.com.tr/wheremybus) &middot; [Test](https://apideposu.com/en/playground?api=burula) &middot; [Detail](https://apideposu.com/en/catalog/burula)</sub> | Burulaş Web API | Origin header (bursakart.com.tr) | Free | &#10003; |
-| **sarj.dev API**<br><sub>[Docs](https://api.sarj.dev/swagger-ui/index.html) &middot; [Test](https://apideposu.com/en/playground?api=sarj-dev-api) &middot; [Detail](https://apideposu.com/en/catalog/sarj-dev-api)</sub> | Turkey-focused charging station search API with unauthenticated provider list, search, and station detail e... | Open | Free | &#10003; |
 | **Şehir Haritası API (İBB)**<br><sub>[Docs](https://harita.istanbul/) &middot; [Test](https://apideposu.com/en/playground?api=ibb-sehir-haritasi) &middot; [Detail](https://apideposu.com/en/catalog/ibb-sehir-haritasi)</sub> | Provides panorama services from the IBB City Map stack for nearby location views. | Open | Free | &#10003; |
 
 ## Identity

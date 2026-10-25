@@ -104,7 +104,9 @@ function normalizeAuth(value) {
     lower.startsWith("yok (") ||
     lower === "none" ||
     lower === "no" ||
-    lower.includes("api key gerekmez")
+    lower.includes("api key gerekmez") ||
+    lower.includes("kimlik dogrulama gerektirmiyor") ||
+    lower.startsWith("public; no api key required")
   ) {
     return "No";
   }
