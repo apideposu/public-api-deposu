@@ -10,9 +10,9 @@
 
 Browse public APIs with direct links to docs, Test Lab, and API Deposu detail pages.
 
-[![Catalog APIs](https://img.shields.io/badge/catalog-454%20APIs-0a7ea4)](https://apideposu.com/en/catalog)
+[![Catalog APIs](https://img.shields.io/badge/catalog-455%20APIs-0a7ea4)](https://apideposu.com/en/catalog)
 [![APIs for Türkiye](https://img.shields.io/badge/Turkiye-117%20APIs-dc2626)](./docs/turkey-focused-apis.md)
-[![Playground Links](https://img.shields.io/badge/playground-434%20links-1f8f5f)](https://apideposu.com/en/playground)
+[![Playground Links](https://img.shields.io/badge/playground-435%20links-1f8f5f)](https://apideposu.com/en/playground)
 [![Support](https://img.shields.io/badge/donate-buy%20me%20a%20coffee-ffdd00)](https://buymeacoffee.com/apideposu)
 [![Issues](https://img.shields.io/badge/issues-feedback-d97706)](https://github.com/MertMURAT/public-api-deposu/issues)
 
@@ -30,7 +30,7 @@ APIs marked with <img src="./assets/tr-flag-icon.svg" width="18" alt="" /> belon
 ## Categories
 
 - [Public Data (223)](#public)
-- [Sports (14)](#sports)
+- [Sports (15)](#sports)
 - [Gaming (12)](#gaming)
 - [Entertainment (30)](#entertainment)
 - [Finance (65)](#finance)
@@ -285,6 +285,7 @@ APIs marked with <img src="./assets/tr-flag-icon.svg" width="18" alt="" /> belon
 | **Live Score API**<br><sub>[Docs](https://live-score-api.com/documentation) &middot; [Test](https://apideposu.com/en/playground?api=live-score-api) &middot; [Detail](https://apideposu.com/en/catalog/live-score-api)</sub> | Live Score API provides football-focused live score, fixture, and result data through REST endpoints. | API Key | Trial | &#10003; |
 | **LSports Odds API**<br><sub>[Docs](https://docs.lsports.eu/lsports/) &middot; [Test](https://apideposu.com/en/playground?api=lsports) &middot; [Detail](https://apideposu.com/en/catalog/lsports)</sub> | LSports provides enterprise-grade odds data services for betting and sports products. | Account credentials or provider-issued token | Paid | &#10003; |
 | **Lumify**<br><sub>[Docs](https://lumify.ai/docs/guides) &middot; [Test](https://apideposu.com/en/playground?api=lumify) &middot; [Detail](https://apideposu.com/en/catalog/lumify)</sub> | Agent-ready sports intelligence API covering MLB, NFL, NBA, NHL, NCAAF, NCAAB, tennis, and soccer. Provides... | API Key | Limited | &#10003; |
+| **Odds API**<br><sub>[Docs](https://odds-api.net/docs) &middot; [Test](https://apideposu.com/en/playground?api=odds-api) &middot; [Detail](https://apideposu.com/en/catalog/odds-api)</sub> | odds-api.net provides pre-match sports and racing odds from 125+ bookmakers, line movement, results, and SS... | API Key | Paid | &#10003; |
 | **OpticOdds API**<br><sub>[Docs](https://developer.opticodds.com/) &middot; [Test](https://apideposu.com/en/playground?api=opticodds) &middot; [Detail](https://apideposu.com/en/catalog/opticodds)</sub> | OpticOdds is a commercial odds platform serving sportsbook data via low-latency endpoints. | x-api-key header | Paid | &#10003; |
 | **Sportmonks Football API**<br><sub>[Docs](https://docs.sportmonks.com/v3/) &middot; [Test](https://apideposu.com/en/playground?api=sportmonks-football) &middot; [Detail](https://apideposu.com/en/catalog/sportmonks-football)</sub> | Sportmonks Football API offers deep football data coverage for professional applications. | Bearer | Trial | &#10003; |
 | **Sportradar Soccer API**<br><sub>[Docs](https://developer.sportradar.com/) &middot; [Test](https://apideposu.com/en/playground?api=sportradar) &middot; [Detail](https://apideposu.com/en/catalog/sportradar)</sub> | Sportradar offers enterprise-grade official data services across many sports, including football. | api_key query param | Trial | &#10003; |
