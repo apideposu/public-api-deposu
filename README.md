@@ -10,9 +10,9 @@
 
 Browse public APIs with direct links to docs, Test Lab, and API Deposu detail pages.
 
-[![Catalog APIs](https://img.shields.io/badge/catalog-455%20APIs-0a7ea4)](https://apideposu.com/en/catalog)
+[![Catalog APIs](https://img.shields.io/badge/catalog-457%20APIs-0a7ea4)](https://apideposu.com/en/catalog)
 [![APIs for Türkiye](https://img.shields.io/badge/Turkiye-117%20APIs-dc2626)](./docs/turkey-focused-apis.md)
-[![Playground Links](https://img.shields.io/badge/playground-435%20links-1f8f5f)](https://apideposu.com/en/playground)
+[![Playground Links](https://img.shields.io/badge/playground-437%20links-1f8f5f)](https://apideposu.com/en/playground)
 [![Support](https://img.shields.io/badge/donate-buy%20me%20a%20coffee-ffdd00)](https://buymeacoffee.com/apideposu)
 [![Issues](https://img.shields.io/badge/issues-feedback-d97706)](https://github.com/MertMURAT/public-api-deposu/issues)
 
@@ -43,7 +43,7 @@ APIs marked with <img src="./assets/tr-flag-icon.svg" width="18" alt="" /> belon
 - [AI (13)](#ai)
 - [Monitoring (1)](#monitoring)
 - [Infrastructure (2)](#infrastructure)
-- [Developer Tools (26)](#developer-tools)
+- [Developer Tools (28)](#developer-tools)
 
 ## Public Data
 
@@ -550,6 +550,7 @@ APIs marked with <img src="./assets/tr-flag-icon.svg" width="18" alt="" /> belon
 |:---|:---|:---|:---|:---:|
 | **Abacus**<br><sub>[Docs](https://jasoncameron.dev/abacus/) &middot; [Test](https://apideposu.com/en/playground?api=abacus) &middot; [Detail](https://apideposu.com/en/catalog/abacus)</sub> | A simple, free counting API for websites and applications. Create, increment, and query unlimited counters... | No | Free | - |
 | **addr.zone**<br><sub>[Docs](https://addr.zone) &middot; [Detail](https://apideposu.com/en/catalog/addr-zone)</sub> | A free API that classifies IP addresses and provides trust scores. Detects datacenters, VPNs, and proxies w... | No | Free | - |
+| **ApiPK**<br><sub>[Docs](https://apipk.site/en) &middot; [Test](https://apideposu.com/en/playground?api=apipk) &middot; [Detail](https://apideposu.com/en/catalog/apipk)</sub> | ApiPK is a free image API comparison tool for developers and SaaS teams. Browse offers by model, resolution... | Public | Free | &#10003; |
 | **CarDatabase.dev**<br><sub>[Docs](https://cardatabase.dev/swagger) &middot; [Test](https://apideposu.com/en/playground?api=cardatabase-dev) &middot; [Detail](https://apideposu.com/en/catalog/cardatabase-dev)</sub> | Automotive data API: car brands, models, technical specs and vehicle images — including EV data (battery ca... | API Key | Trial | &#10003; |
 | **DummyJSON**<br><sub>[Docs](https://dummyjson.com/docs) &middot; [Test](https://apideposu.com/en/playground?api=dummyjson) &middot; [Detail](https://apideposu.com/en/catalog/dummyjson)</sub> | Rich fake REST API with products, carts, users, recipes, and more for frontend development. | No | Free | &#10003; |
 | **EasyDown Video Downloader API**<br><sub>[Docs](https://easydown.org/docs/en/api) &middot; [Test](https://apideposu.com/en/playground?api=easydown-video-downloader-api) &middot; [Detail](https://apideposu.com/en/catalog/easydown-video-downloader-api)</sub> | EasyDown is a paid developer API for parsing public single-post video and image URLs across 11 social platf... | Bearer | Limited | &#10003; |
@@ -559,6 +560,7 @@ APIs marked with <img src="./assets/tr-flag-icon.svg" width="18" alt="" /> belon
 | **Helius API**<br><sub>[Docs](https://www.helius.dev/docs/api-reference) &middot; [Test](https://apideposu.com/en/playground?api=helius-api) &middot; [Detail](https://apideposu.com/en/catalog/helius-api)</sub> | Helius is an official Solana infrastructure provider offering RPC, DAS, ZK Compression, Webhooks, Enhanced... | API Key | Free | &#10003; |
 | **icanhazip**<br><sub>[Docs](https://major.io/icanhazip-com-faq/) &middot; [Test](https://apideposu.com/en/playground?api=icanhazip) &middot; [Detail](https://apideposu.com/en/catalog/icanhazip)</sub> | icanhazip is a lightweight service that returns the client public IP as plain text. | No | Free | &#10003; |
 | **Image-Charts**<br><sub>[Docs](https://documentation.image-charts.com/) &middot; [Test](https://apideposu.com/en/playground?api=image-charts) &middot; [Detail](https://apideposu.com/en/catalog/image-charts)</sub> | An API that generates dynamic chart and QR code images via URL parameters. Returns pie, bar, line, radar ch... | No | Unknown | - |
+| **ImgAPI**<br><sub>[Docs](https://imgapi.ai/api-docs) &middot; [Test](https://apideposu.com/en/playground?api=imgapi) &middot; [Detail](https://apideposu.com/en/catalog/imgapi)</sub> | ImgAPI offers usage-based image generation through one API, with prepaid USD credits and pricing that varie... | API Key | Paid | &#10003; |
 | **ipapi.is**<br><sub>[Docs](https://ipapi.is/developers.html) &middot; [Detail](https://apideposu.com/en/catalog/ipapi-is)</sub> | A comprehensive IP address information API. Provides geolocation, ASN, company info, datacenter/VPN/proxy/T... | No | Unknown | - |
 | **IPLocate.io**<br><sub>[Docs](https://www.iplocate.io/docs) &middot; [Detail](https://apideposu.com/en/catalog/iplocate-io)</sub> | A detailed IP geolocation API. Returns city, country, timezone, ASN, privacy info (VPN/proxy/Tor), hosting... | No | Unknown | - |
 | **jsDelivr**<br><sub>[Docs](https://www.jsdelivr.com/docs/data.jsdelivr.com) &middot; [Test](https://apideposu.com/en/playground?api=jsdelivr) &middot; [Detail](https://apideposu.com/en/catalog/jsdelivr)</sub> | The jsDelivr CDN package information and statistics API. Query version info, download stats, browser and pl... | No | Free | - |
