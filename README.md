@@ -10,9 +10,9 @@
 
 Browse public APIs with direct links to docs, Test Lab, and API Deposu detail pages.
 
-[![Catalog APIs](https://img.shields.io/badge/catalog-457%20APIs-0a7ea4)](https://apideposu.com/en/catalog)
+[![Catalog APIs](https://img.shields.io/badge/catalog-460%20APIs-0a7ea4)](https://apideposu.com/en/catalog)
 [![APIs for Türkiye](https://img.shields.io/badge/Turkiye-117%20APIs-dc2626)](./docs/turkey-focused-apis.md)
-[![Playground Links](https://img.shields.io/badge/playground-437%20links-1f8f5f)](https://apideposu.com/en/playground)
+[![Playground Links](https://img.shields.io/badge/playground-440%20links-1f8f5f)](https://apideposu.com/en/playground)
 [![Support](https://img.shields.io/badge/donate-buy%20me%20a%20coffee-ffdd00)](https://buymeacoffee.com/apideposu)
 [![Issues](https://img.shields.io/badge/issues-feedback-d97706)](https://github.com/MertMURAT/public-api-deposu/issues)
 
@@ -32,7 +32,7 @@ APIs marked with <img src="./assets/tr-flag-icon.svg" width="18" alt="" /> belon
 - [Public Data (223)](#public)
 - [Sports (15)](#sports)
 - [Gaming (12)](#gaming)
-- [Entertainment (30)](#entertainment)
+- [Entertainment (31)](#entertainment)
 - [Finance (65)](#finance)
 - [Logistics (6)](#logistics)
 - [Ecommerce (8)](#ecommerce)
@@ -40,9 +40,9 @@ APIs marked with <img src="./assets/tr-flag-icon.svg" width="18" alt="" /> belon
 - [Maps (13)](#maps)
 - [Identity (4)](#identity)
 - [Business (21)](#business)
-- [AI (13)](#ai)
+- [AI (14)](#ai)
 - [Monitoring (1)](#monitoring)
-- [Infrastructure (2)](#infrastructure)
+- [Infrastructure (3)](#infrastructure)
 - [Developer Tools (28)](#developer-tools)
 
 ## Public Data
@@ -333,6 +333,7 @@ APIs marked with <img src="./assets/tr-flag-icon.svg" width="18" alt="" /> belon
 | **Open Trivia DB**<br><sub>[Docs](https://opentdb.com/api_config.php) &middot; [Test](https://apideposu.com/en/playground?api=open-trivia-db) &middot; [Detail](https://apideposu.com/en/catalog/open-trivia-db)</sub> | Open Trivia DB serves quiz/trivia questions through parameterized JSON endpoints. | No | Free | &#10003; |
 | **Riddles API**<br><sub>[Docs](https://riddles-api.vercel.app) &middot; [Test](https://apideposu.com/en/playground?api=riddles-api) &middot; [Detail](https://apideposu.com/en/catalog/riddles-api)</sub> | Rastgele bilmece ve bulmaca döndüren basit API. | No | Free | - |
 | **Shikimori API**<br><sub>[Docs](https://shikimori.one/api/doc) &middot; [Test](https://apideposu.com/en/playground?api=shikimori-api) &middot; [Detail](https://apideposu.com/en/catalog/shikimori-api)</sub> | Anime ve manga verisi, türler, stüdyo bilgileri ve derecelendirmeler sunan Rusya kökenli anime platformu AP... | No | Free | &#10003; |
+| **ShortDramaKit**<br><sub>[Docs](https://shortdramakit.com/docs/api) &middot; [Test](https://apideposu.com/en/playground?api=shortdramakit) &middot; [Detail](https://apideposu.com/en/catalog/shortdramakit)</sub> | ShortDramaKit provides web tools and an API for researching supported short-drama metadata and exporting sa... | Bearer | Paid | &#10003; |
 | **shREST - Shrek REST API**<br><sub>[Docs](https://shrekofficial.com) &middot; [Test](https://apideposu.com/en/playground?api=shrest-shrek-rest-api) &middot; [Detail](https://apideposu.com/en/catalog/shrest-shrek-rest-api)</sub> | A REST API providing quotes, movie information, and cast data from the Shrek film series. | No | Free | - |
 | **South Park Quotes API**<br><sub>[Docs](https://github.com/Thatskat/southpark-quotes-api) &middot; [Test](https://apideposu.com/en/playground?api=south-park-quotes-api) &middot; [Detail](https://apideposu.com/en/catalog/south-park-quotes-api)</sub> | A simple REST API serving random quotes from the South Park animated TV show, with support for multiple quo... | No | Free | - |
 | **STAPI - Star Trek API**<br><sub>[Docs](https://stapi.co/api-documentation) &middot; [Test](https://apideposu.com/en/playground?api=stapi-star-trek-api) &middot; [Detail](https://apideposu.com/en/catalog/stapi-star-trek-api)</sub> | A comprehensive database API covering the Star Trek universe, including characters, episodes, species, spac... | No | Free | - |
@@ -520,6 +521,7 @@ APIs marked with <img src="./assets/tr-flag-icon.svg" width="18" alt="" /> belon
 | **AI Router**<br><sub>[Docs](https://ai-router.dev/tr) &middot; [Test](https://apideposu.com/en/playground?api=ai-router) &middot; [Detail](https://apideposu.com/en/catalog/ai-router)</sub> | AI Router is a managed ChatGPT API gateway usable with the OpenAI client format for apps, scripts, and codi... | Bearer | Limited | - |
 | <img src="./assets/tr-flag-icon.svg" width="16" alt="" /> **ARKAPI**<br><sub>[Docs](https://arkapi.app/documentation) &middot; [Test](https://apideposu.com/en/playground?api=arkapi) &middot; [Detail](https://apideposu.com/en/catalog/arkapi)</sub> | Local OCR solution with data localization advantages for KVKK. | API Key | Trial | &#10003; |
 | **AssemblyAI API**<br><sub>[Docs](https://www.assemblyai.com/docs) &middot; [Test](https://apideposu.com/en/playground?api=assemblyai-api) &middot; [Detail](https://apideposu.com/en/catalog/assemblyai-api)</sub> | Ses ve video dosyalarından yüksek doğrulukla konuşma metne dönüştürme, duygu analizi ve özetleme API'si. | API Key | Free | &#10003; |
+| **Code By AI**<br><sub>[Docs](https://www.codebyai.net/llms.txt) &middot; [Test](https://apideposu.com/en/playground?api=code-by-ai) &middot; [Detail](https://apideposu.com/en/catalog/code-by-ai)</sub> | One API key and endpoint for Claude, GPT/Codex and Gemini coding models, billed per token from about 1/6 of... | API Key | Paid | - |
 | <img src="./assets/tr-flag-icon.svg" width="16" alt="" /> **Dahi.ai**<br><sub>[Docs](https://docs.dahi.ai/) &middot; [Test](https://apideposu.com/en/playground?api=dahi-ai) &middot; [Detail](https://apideposu.com/en/catalog/dahi-ai)</sub> | Local AI platform focused on no-code bot and automation development. | OAuth 2.0 | Unknown | &#10003; |
 | **DeepL API**<br><sub>[Docs](https://www.deepl.com/docs-api) &middot; [Test](https://apideposu.com/en/playground?api=deepl) &middot; [Detail](https://apideposu.com/en/catalog/deepl)</sub> | High-quality translation API with strong GDPR compliance. | API Key | Trial | &#10003; |
 | **ElevenLabs API**<br><sub>[Docs](https://elevenlabs.io/docs/api-reference) &middot; [Test](https://apideposu.com/en/playground?api=elevenlabs-api) &middot; [Detail](https://apideposu.com/en/catalog/elevenlabs-api)</sub> | Yüksek kaliteli AI ses sentezi ve metin-konuşma dönüşümü için API — klonlanmış ve hazır seslerle. | API Key | Free | &#10003; |
@@ -542,6 +544,7 @@ APIs marked with <img src="./assets/tr-flag-icon.svg" width="18" alt="" /> belon
 | API | Description | Auth | Free | Official |
 |:---|:---|:---|:---|:---:|
 | **Blockscout API**<br><sub>[Docs](https://docs.blockscout.com/devs/apis/rest) &middot; [Test](https://apideposu.com/en/playground?api=blockscout-api) &middot; [Detail](https://apideposu.com/en/catalog/blockscout-api)</sub> | Blockscout API is the REST interface of the open-source block explorer, serving address, transaction, token... | No | Free | &#10003; |
+| **Compute Comparison API**<br><sub>[Docs](https://computecomparison.com/api-docs) &middot; [Test](https://apideposu.com/en/playground?api=compute-comparison-api) &middot; [Detail](https://apideposu.com/en/catalog/compute-comparison-api)</sub> | Free REST API for GPU cloud rental and LLM inference prices. No key is needed for current prices; a free ke... | Optional API key. None needed for current prices. | Free | &#10003; |
 | **Ethplorer API**<br><sub>[Docs](https://github.com/EverexIO/Ethplorer/wiki/Ethplorer-API) &middot; [Test](https://apideposu.com/en/playground?api=ethplorer-api) &middot; [Detail](https://apideposu.com/en/catalog/ethplorer-api)</sub> | Ethplorer API serves balance, token list and supply data for Ethereum addresses and ERC-20 tokens over REST. | API Key | Limited | &#10003; |
 
 ## Developer Tools
