@@ -10,9 +10,9 @@
 
 Browse public APIs with direct links to docs, Test Lab, and API Deposu detail pages.
 
-[![Catalog APIs](https://img.shields.io/badge/catalog-464%20APIs-0a7ea4)](https://apideposu.com/en/catalog)
+[![Catalog APIs](https://img.shields.io/badge/catalog-466%20APIs-0a7ea4)](https://apideposu.com/en/catalog)
 [![APIs for Türkiye](https://img.shields.io/badge/Turkiye-117%20APIs-dc2626)](./docs/turkey-focused-apis.md)
-[![Playground Links](https://img.shields.io/badge/playground-444%20links-1f8f5f)](https://apideposu.com/en/playground)
+[![Playground Links](https://img.shields.io/badge/playground-446%20links-1f8f5f)](https://apideposu.com/en/playground)
 [![Support](https://img.shields.io/badge/donate-buy%20me%20a%20coffee-ffdd00)](https://buymeacoffee.com/apideposu)
 [![Issues](https://img.shields.io/badge/issues-feedback-d97706)](https://github.com/MertMURAT/public-api-deposu/issues)
 
@@ -29,7 +29,7 @@ APIs marked with <img src="./assets/tr-flag-icon.svg" width="18" alt="" /> belon
 
 ## Categories
 
-- [Public Data (223)](#public)
+- [Public Data (224)](#public)
 - [Sports (15)](#sports)
 - [Gaming (12)](#gaming)
 - [Entertainment (31)](#entertainment)
@@ -39,7 +39,7 @@ APIs marked with <img src="./assets/tr-flag-icon.svg" width="18" alt="" /> belon
 - [Communication (16)](#communication)
 - [Maps (14)](#maps)
 - [Identity (4)](#identity)
-- [Business (22)](#business)
+- [Business (23)](#business)
 - [AI (14)](#ai)
 - [Monitoring (1)](#monitoring)
 - [Infrastructure (3)](#infrastructure)
@@ -209,6 +209,7 @@ APIs marked with <img src="./assets/tr-flag-icon.svg" width="18" alt="" /> belon
 | **OSV API**<br><sub>[Docs](https://google.github.io/osv.dev/api/) &middot; [Test](https://apideposu.com/en/playground?api=osv-api) &middot; [Detail](https://apideposu.com/en/catalog/osv-api)</sub> | Google tarafından yönetilen, 20'den fazla ekosistemi (npm, PyPI, Go, Maven vb.) kapsayan açık kaynaklı güve... | No | Free | &#10003; |
 | **Owen Wilson Wow API**<br><sub>[Docs](https://github.com/amamenko/owen-wilson-wow-api) &middot; [Test](https://apideposu.com/en/playground?api=owen-wilson-wow-api) &middot; [Detail](https://apideposu.com/en/catalog/owen-wilson-wow-api)</sub> | Owen Wilson Wow API provides community-sourced JSON endpoints for 'wow' moments in films. | No | Free | - |
 | **Pexels API**<br><sub>[Docs](https://www.pexels.com/api/documentation/) &middot; [Test](https://apideposu.com/en/playground?api=pexels-api) &middot; [Detail](https://apideposu.com/en/catalog/pexels-api)</sub> | Pexels'ın geniş ücretsiz fotoğraf ve video kütüphanesine programatik erişim sağlar. Tüm içerikler Creative... | API Key | Free | &#10003; |
+| **PiSpace Data**<br><sub>[Docs](https://data.pispace.eu/) &middot; [Test](https://apideposu.com/en/playground?api=pispace-data) &middot; [Detail](https://apideposu.com/en/catalog/pispace-data)</sub> | Global Statistics Explorer — Find and compare public statistics from official sources: population, economy,... | None (free, no key) | Free | &#10003; |
 | **PoetryDB**<br><sub>[Docs](https://poetrydb.org/index.html) &middot; [Test](https://apideposu.com/en/playground?api=poetrydb) &middot; [Detail](https://apideposu.com/en/catalog/poetrydb)</sub> | PoetryDB exposes poems and author information through read-only JSON endpoints. | No | Free | &#10003; |
 | **Postcodes.io**<br><sub>[Docs](https://postcodes.io/) &middot; [Test](https://apideposu.com/en/playground?api=postcodes-io) &middot; [Detail](https://apideposu.com/en/catalog/postcodes-io)</sub> | Ingiltere posta kodlarini koordinat, idari bolge ve secim cevresi bilgileriyle birlestiren ucretsiz ve acik... | No | Free | &#10003; |
 | **PubChem PUG REST**<br><sub>[Docs](https://pubchemdocs.ncbi.nlm.nih.gov/pug-rest) &middot; [Test](https://apideposu.com/en/playground?api=pubchem-pug-rest) &middot; [Detail](https://apideposu.com/en/catalog/pubchem-pug-rest)</sub> | NCBI tarafindan sunulan 100 milyonun uzerinde kimyasal bilesik iceren acik kimya veritabanidir. Bilesik ara... | No | Free | &#10003; |
@@ -503,6 +504,7 @@ APIs marked with <img src="./assets/tr-flag-icon.svg" width="18" alt="" /> belon
 | <img src="./assets/tr-flag-icon.svg" width="16" alt="" /> **EDM API**<br><sub>[Docs](https://docs.edmbilisim.com.tr/api/api-documentation/introduction.html) &middot; [Test](https://apideposu.com/en/playground?api=edm) &middot; [Detail](https://apideposu.com/en/catalog/edm)</sub> | Official API documentation for EDM Bilişim e-document services. | OAuth 2.0 | Unknown | &#10003; |
 | <img src="./assets/tr-flag-icon.svg" width="16" alt="" /> **Etkinlik.io API**<br><sub>[Docs](https://etkinlik.io/api-bilgi) &middot; [Test](https://apideposu.com/en/playground?api=etkinlik-io) &middot; [Detail](https://apideposu.com/en/catalog/etkinlik-io)</sub> | Provides an open search endpoint plus V2 listing/detail endpoints. | API Key | Unknown | &#10003; |
 | <img src="./assets/tr-flag-icon.svg" width="16" alt="" /> **İçerik Bulutu API**<br><sub>[Docs](https://www.icerikbulutu.com/teknolojiler/icerik-bulutu-api) &middot; [Test](https://apideposu.com/en/playground?api=icerik-bulutu) &middot; [Detail](https://apideposu.com/en/catalog/icerik-bulutu)</sub> | API page for Content Bulutu content creation and publishing integrations. | API Key | Unknown | &#10003; |
+| **Insight Hive Watchlist API**<br><sub>[Docs](https://insighthive.app/docs/api) &middot; [Test](https://apideposu.com/en/playground?api=insight-hive-watchlist-api) &middot; [Detail](https://apideposu.com/en/catalog/insight-hive-watchlist-api)</sub> | Read-only REST API from Insight Hive, a Facebook scheduling and analytics tool for publishers. It lets you... | API Key | Paid | &#10003; |
 | **Karma.Domains**<br><sub>[Docs](https://karma.domains/) &middot; [Test](https://apideposu.com/en/playground?api=karma-domains) &middot; [Detail](https://apideposu.com/en/catalog/karma-domains)</sub> | Karma.Domains helps SEO professionals screen expired and auction domains with SEO metrics and archived-cont... | Unknown | Free | - |
 | <img src="./assets/tr-flag-icon.svg" width="16" alt="" /> **Logo Yazılım API**<br><sub>[Docs](https://polaris.logo.cloud/) &middot; [Test](https://apideposu.com/en/playground?api=logo-yazilim) &middot; [Detail](https://apideposu.com/en/catalog/logo-yazilim)</sub> | Developer documentation and integration resources for Logo Yazılım enterprise products. | API Key | Unknown | &#10003; |
 | <img src="./assets/tr-flag-icon.svg" width="16" alt="" /> **Mukellef.Info**<br><sub>[Docs](https://api.mukellef.info/) &middot; [Test](https://apideposu.com/en/playground?api=mukellef-info) &middot; [Detail](https://apideposu.com/en/catalog/mukellef-info)</sub> | A verification service that queries the company title, address, and tax office based on the tax number or T... | API Key | Limited | &#10003; |
